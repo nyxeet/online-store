@@ -1,0 +1,27 @@
+.corner {
+    position: absolute;
+    top:0;
+    right: 1.5%;
+    margin-top: 2%;
+}
+
+.UL {
+    list-style: none;
+    margin-left: -4%;
+    margin-top: 3%;
+}
+
+.UL li {
+    margin-bottom: 2%;
+}
+
+.UL li:last-child {
+    margin-top: 6%;
+    margin-bottom: 0;
+    margin-left: -2
+}
+
+.cornerInput {
+    margin: -12% 0 0 41.1%;
+    margin-left: 40%;  
+}

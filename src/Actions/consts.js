@@ -1,0 +1,4 @@
+export const RECEIVE_ITEM = 'RECEIVE_ITEM'
+export const FILTR_CHOSE = 'FILTR_CHOSE'
+export const DEFAULT_ARR = 'DEFAULT_ARR'
+export const DEFAULT_RENDER = 'DEFAULT_RENDER'
